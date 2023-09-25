@@ -32,4 +32,8 @@ We have an image in the README (more html)
     <img src="./wtf.jpg" />
     <span style="margin-left:48px;">wubble</span>
 </p>
+<div>
+<p> This is a new paragraph I created using Vim </p>
+<img src="/cat.jpg" />
+</div>
 
